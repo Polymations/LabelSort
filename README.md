@@ -25,4 +25,5 @@ ___
   * For i goes from min to max, create a bucket for i labeled-numbers.
   * Put each element into each bucket based on label numbers.
   * For i goes from min to max, insert bucket i into the original array.
+
 Once you can't do the process anymore, you should have your sorted array.
