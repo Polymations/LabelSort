@@ -1,7 +1,7 @@
 # LabelSort
 An O(n^2) sorting algorithm made by me.
 ## Explanation
-Label Sort assigns labels to each element and sorts the elements by their labels using Pigeonhole sort, and repetitively does this until you can't do it anymore.
+Label Sort assigns labels to each element and sorts the elements by their labels using any distribution sort (preferably Pigeonhole sort), and repetitively does this until you can't do it anymore.
 ___
 * Set a variable c to the unsorted array.
 * Until c = array:
